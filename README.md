@@ -99,3 +99,7 @@ When you scan a folder, file types it can't read are skipped. Files you name dir
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+---
+
+Part of [Landull](https://github.com/Landull)'s forensics toolkit.
